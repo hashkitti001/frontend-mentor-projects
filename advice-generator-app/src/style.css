@@ -35,6 +35,7 @@ p {
     background: var(--darkgreyblue);
     border-radius: 15px;
     margin:20vh auto;
+    padding:48px 48px 0 48px;
 
 }
 
